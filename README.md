@@ -1,4 +1,4 @@
-# COVID-19
+COVID-19
 Software for the analysis of COVID-19 data
 
 COVID19_Deutschland.xls          - Data and code for R estimation, updated daily
